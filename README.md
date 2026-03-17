@@ -1,1 +1,1 @@
-![AI](screenshot/AI-agent.png)
+![AI](screenshots/AI-agent.png)
