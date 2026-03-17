@@ -1,0 +1,34 @@
+{
+  "tokyo": {
+    "rentMonthly": { "low": 70000, "high": 165000, "currency": "JPY" },
+    "foodMonthly": { "low": 30000, "high": 65000, "currency": "JPY" },
+    "medicalVisit": { "low": 4000, "high": 12000, "currency": "JPY" },
+    "bracesProcedure": { "low": 700000, "high": 1300000, "currency": "JPY" },
+    "lifestyleMonthly": { "low": 20000, "high": 85000, "currency": "JPY" },
+    "overallMonthly": { "low": 130000, "high": 320000, "currency": "JPY" }
+  },
+  "osaka": {
+    "rentMonthly": { "low": 55000, "high": 120000, "currency": "JPY" },
+    "foodMonthly": { "low": 28000, "high": 60000, "currency": "JPY" },
+    "medicalVisit": { "low": 3500, "high": 10000, "currency": "JPY" },
+    "bracesProcedure": { "low": 600000, "high": 1150000, "currency": "JPY" },
+    "lifestyleMonthly": { "low": 18000, "high": 70000, "currency": "JPY" },
+    "overallMonthly": { "low": 110000, "high": 265000, "currency": "JPY" }
+  },
+  "kyoto": {
+    "rentMonthly": { "low": 58000, "high": 130000, "currency": "JPY" },
+    "foodMonthly": { "low": 30000, "high": 62000, "currency": "JPY" },
+    "medicalVisit": { "low": 3500, "high": 10000, "currency": "JPY" },
+    "bracesProcedure": { "low": 620000, "high": 1180000, "currency": "JPY" },
+    "lifestyleMonthly": { "low": 18000, "high": 72000, "currency": "JPY" },
+    "overallMonthly": { "low": 115000, "high": 275000, "currency": "JPY" }
+  },
+  "fukuoka": {
+    "rentMonthly": { "low": 50000, "high": 105000, "currency": "JPY" },
+    "foodMonthly": { "low": 26000, "high": 55000, "currency": "JPY" },
+    "medicalVisit": { "low": 3000, "high": 9000, "currency": "JPY" },
+    "bracesProcedure": { "low": 580000, "high": 1050000, "currency": "JPY" },
+    "lifestyleMonthly": { "low": 15000, "high": 62000, "currency": "JPY" },
+    "overallMonthly": { "low": 98000, "high": 235000, "currency": "JPY" }
+  }
+}

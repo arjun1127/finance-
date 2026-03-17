@@ -1,0 +1,38 @@
+{
+  "tokyo": {
+    "rent": 80000,
+    "utilities": 12000,
+    "travel": 10000,
+    "insurance": 8000,
+    "food": 35000,
+    "subscriptions": 3000,
+    "misc": 15000
+  },
+  "osaka": {
+    "rent": 70000,
+    "utilities": 11000,
+    "travel": 8500,
+    "insurance": 8000,
+    "food": 42000,
+    "subscriptions": 2500,
+    "misc": 12000
+  },
+  "kyoto": {
+    "rent": 76000,
+    "utilities": 11500,
+    "travel": 9000,
+    "insurance": 8000,
+    "food": 43000,
+    "subscriptions": 2500,
+    "misc": 12000
+  },
+  "fukuoka": {
+    "rent": 62000,
+    "utilities": 10000,
+    "travel": 7500,
+    "insurance": 8000,
+    "food": 39000,
+    "subscriptions": 2200,
+    "misc": 10500
+  }
+}
